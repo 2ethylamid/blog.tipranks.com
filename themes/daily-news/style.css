@@ -1,0 +1,35 @@
+/*
+
+Theme Name: Daily News
+Theme URI: http://gbjsolution.com/
+Author: Biswajit Saha
+Author URI: http://themeforest.net/user/GBJsolution
+Description: A responsive minimal blogging theme.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: Custom-Background, White, Light, Featured-Images, Theme-Options, Translation-Ready
+Text Domain: daily-news
+*/
+
+
+footer #wysija-2 .title,footer .widget .title span {
+	background: none !important;
+    color:#AEAEAE !important;
+    font-weight: 500 !important; 
+    padding-left: 0px !important;
+}
+footer .widget .title span:before{
+	border:none !important;
+}
+#wysija-input{
+	float: left !important;
+}
+
+.widget_wysija_cont .wysija-submit{
+	margin-top: -5px;
+    /* margin-left: 25px !important; */
+    position: relative;
+    left: 13px;
+}
+article span.comment{display: none !important;}

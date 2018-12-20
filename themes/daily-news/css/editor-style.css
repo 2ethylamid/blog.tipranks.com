@@ -1,0 +1,73 @@
+/*====================================================
+	COLOR VARIABLE FOR THEME
+====================================================*/
+/*====================================================
+	MIXINS
+====================================================*/
+body {
+  color: #333333;
+  font-family: 'Open Sans', sans-serif;
+  line-height: 2em;
+  font-size: 14px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6 {
+  font-weight: 700;
+  color: #333333;
+  margin-top: 0;
+  margin-bottom: 14px;
+  line-height: 1.25em;
+}
+a {
+  color: #ff4444;
+  -webkit-transition: all 0.25s;
+  -moz-transition: all 0.25s;
+  -ms-transition: all 0.25s;
+  -o-transition: all 0.25s;
+  transition: all 0.25s;
+}
+a:hover,
+a:focus {
+  text-decoration: none;
+  color: #ff4444;
+}
+blockquote {
+  border-left: none;
+  text-align: center;
+  background: #f0f0f0;
+  padding: 18px;
+}
+blockquote p {
+  margin-bottom: 9px;
+}
+cite {
+  font-size: 14px;
+}
+cite:before {
+  content: "\2014";
+  margin-right: 4px;
+}
+pre {
+  padding: 0;
+  border: none;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+}
+pre code {
+  font-size: 14px;
+}
+iframe {
+  display: block;
+  border: 0;
+}

@@ -1,0 +1,1 @@
+### In daily news child theme you can add custom style in style.css file and custom php functionality in functions.php file.

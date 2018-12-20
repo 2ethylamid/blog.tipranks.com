@@ -1,0 +1,1773 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Daily News\n"
+"POT-Creation-Date: 2016-05-09 19:07+0530\n"
+"PO-Revision-Date: 2016-05-09 20:00+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bn_BD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:30
+msgid "404"
+msgstr "৪০৪"
+
+#: 404.php:31
+msgid "OOPS! The page not found."
+msgstr ""
+
+#: 404.php:33
+msgid "Back to Homepage"
+msgstr ""
+
+#: comments.php:27 partials/post-style-large.php:28
+#: partials/post-style-small.php:27
+#: partials/post-templates/content-audio.php:59
+#: partials/post-templates/content-gallery.php:90
+#: partials/post-templates/content-image.php:55
+#: partials/post-templates/content-link.php:52
+#: partials/post-templates/content-quote.php:55
+#: partials/post-templates/content-status.php:57
+#: partials/post-templates/content-video.php:54
+#: partials/post-templates/content.php:48
+msgid "0 Comments"
+msgstr ""
+
+#: comments.php:27 partials/post-style-large.php:28
+#: partials/post-style-small.php:27
+#: partials/post-templates/content-audio.php:59
+#: partials/post-templates/content-gallery.php:90
+#: partials/post-templates/content-image.php:55
+#: partials/post-templates/content-link.php:52
+#: partials/post-templates/content-quote.php:55
+#: partials/post-templates/content-status.php:57
+#: partials/post-templates/content-video.php:54
+#: partials/post-templates/content.php:48
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:27 partials/post-style-large.php:28
+#: partials/post-style-small.php:27
+#: partials/post-templates/content-audio.php:59
+#: partials/post-templates/content-gallery.php:90
+#: partials/post-templates/content-image.php:55
+#: partials/post-templates/content-link.php:52
+#: partials/post-templates/content-quote.php:55
+#: partials/post-templates/content-status.php:57
+#: partials/post-templates/content-video.php:54
+#: partials/post-templates/content.php:48
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:35
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:36
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:41
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:49
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:50
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:53
+msgid "Name"
+msgstr ""
+
+#: comments.php:55
+msgid "Email"
+msgstr ""
+
+#: comments.php:57 partials/about-author.php:18 partials/cover-author.php:22
+msgid "Website"
+msgstr ""
+
+#: comments.php:60
+msgid "Comment"
+msgstr ""
+
+#: comments.php:62
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:63
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:64 comments.php:65
+msgid "Submit Comment"
+msgstr ""
+
+#: footer.php:36
+msgid "Subscribe"
+msgstr ""
+
+#: functions.php:43
+msgid "Main Menu"
+msgstr "প্রধান মেনু"
+
+#: functions.php:65
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:131
+msgid "Main Sidebar"
+msgstr "প্রধান সাইড বার"
+
+#: functions.php:133
+msgid "Add widget here to show in main sidebar"
+msgstr ""
+
+#: functions.php:140
+msgid "Home Page Sidebar"
+msgstr "হোম পেজ সাইড বার"
+
+#: functions.php:142
+msgid "Add widget here to show in Home front page template sidebar"
+msgstr ""
+
+#: functions.php:150
+msgid "Footer Widget Area left"
+msgstr ""
+
+#: functions.php:152
+msgid "Add widget here to show in footer left"
+msgstr ""
+
+#: functions.php:159
+msgid "Footer Widget Area Center"
+msgstr ""
+
+#: functions.php:161
+msgid "Add widget here to show in footer center"
+msgstr ""
+
+#: functions.php:168
+msgid "Footer Widget Area Right"
+msgstr ""
+
+#: functions.php:170
+msgid "Add widget here to show in footer right"
+msgstr ""
+
+#: functions.php:207 functions.php:214
+msgid "Read More..."
+msgstr ""
+
+#: functions.php:242
+msgid "Edit"
+msgstr ""
+
+#: functions.php:248
+msgid "Reply"
+msgstr ""
+
+#: functions.php:414 inc/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:415 inc/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:416 inc/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:417 inc/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:419 inc/class-tgm-plugin-activation.php:338
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:424 inc/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:429 inc/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:434 inc/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:439 inc/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:444 inc/class-tgm-plugin-activation.php:363
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:449 inc/class-tgm-plugin-activation.php:368
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:454 inc/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:459 inc/class-tgm-plugin-activation.php:378
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:464 inc/class-tgm-plugin-activation.php:383
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:469 inc/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:473 inc/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:474 inc/class-tgm-plugin-activation.php:399
+#: inc/class-tgm-plugin-activation.php:3034
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:475 inc/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:400
+#: inc/class-tgm-plugin-activation.php:2837
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:524
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:525
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:639
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:833
+#: inc/class-tgm-plugin-activation.php:3443
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:940
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:940
+#: inc/class-tgm-plugin-activation.php:943
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:943
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1121
+#: inc/class-tgm-plugin-activation.php:2833
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1886
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2172
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2175
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2191
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2194
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2197
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2214
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2218
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2220
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2226
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2229
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2232
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2240
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2285
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2288
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2291
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2294
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2376
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2384
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2392
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2404
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2441
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2442
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2443
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2447
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2448
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2496
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2500
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2505
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2575
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2608
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2614
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2617
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2648
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2650
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2686
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2688
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2793
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2819
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3033
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3367
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3369
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3374
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3375
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3375
+#: inc/class-tgm-plugin-activation.php:3381
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3375
+#: inc/class-tgm-plugin-activation.php:3381
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3376
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3377
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3380
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3381
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3382
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3383
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/daily-news-customizer.php:9
+msgid "Header Settings"
+msgstr ""
+
+#: inc/daily-news-customizer.php:10
+msgid "All header related settings"
+msgstr ""
+
+#: inc/daily-news-customizer.php:14
+msgid "Home Page Settings"
+msgstr ""
+
+#: inc/daily-news-customizer.php:15
+msgid "Homepage related settings"
+msgstr ""
+
+#: inc/daily-news-customizer.php:19
+msgid "Advertisement Settings"
+msgstr ""
+
+#: inc/daily-news-customizer.php:20
+msgid "Manage all ads here"
+msgstr ""
+
+#: inc/daily-news-customizer.php:26
+msgid "General Settings"
+msgstr "সাধারন সেটিংস"
+
+#: inc/daily-news-customizer.php:31
+msgid "Header General Settings"
+msgstr ""
+
+#: inc/daily-news-customizer.php:37
+msgid "Logo Settings"
+msgstr ""
+
+#: inc/daily-news-customizer.php:43
+msgid "Tiker / Slider Bar"
+msgstr ""
+
+#: inc/daily-news-customizer.php:49
+msgid "Social Icon Settings"
+msgstr ""
+
+#: inc/daily-news-customizer.php:56
+msgid "Featured Area Options"
+msgstr ""
+
+#: inc/daily-news-customizer.php:62
+msgid "Category Area Options"
+msgstr ""
+
+#: inc/daily-news-customizer.php:68
+msgid "Sidebar On Homepage"
+msgstr ""
+
+#: inc/daily-news-customizer.php:75
+msgid "Single Post Settings"
+msgstr ""
+
+#: inc/daily-news-customizer.php:80
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/daily-news-customizer.php:88
+msgid "Header Ad Settings"
+msgstr ""
+
+#: inc/daily-news-customizer.php:94
+msgid "Front Page Bottom Ad Settings"
+msgstr ""
+
+#: inc/daily-news-customizer.php:100
+msgid "Custom Code"
+msgstr ""
+
+#: inc/daily-news-customizer.php:122
+msgid "Site Layout"
+msgstr ""
+
+#: inc/daily-news-customizer.php:123
+msgid "Choose site width. boxed or full width."
+msgstr ""
+
+#: inc/daily-news-customizer.php:128
+msgid "Boxed"
+msgstr ""
+
+#: inc/daily-news-customizer.php:129
+msgid "Full Width"
+msgstr ""
+
+#: inc/daily-news-customizer.php:135
+msgid "Sidebar Position"
+msgstr ""
+
+#: inc/daily-news-customizer.php:136
+msgid "Choose sidebar to be shown on right or left."
+msgstr ""
+
+#: inc/daily-news-customizer.php:141
+#: inc/kirki/includes/class-kirki-toolkit.php:102
+msgid "Left"
+msgstr ""
+
+#: inc/daily-news-customizer.php:142
+#: inc/kirki/includes/class-kirki-toolkit.php:103
+msgid "Right"
+msgstr ""
+
+#: inc/daily-news-customizer.php:148
+msgid "Navbar Type"
+msgstr ""
+
+#: inc/daily-news-customizer.php:149
+msgid "Navbar fixed or normal."
+msgstr ""
+
+#: inc/daily-news-customizer.php:154
+msgid "Normal"
+msgstr ""
+
+#: inc/daily-news-customizer.php:155
+#: inc/kirki/includes/class-kirki-toolkit.php:59
+msgid "Fixed"
+msgstr ""
+
+#: inc/daily-news-customizer.php:161
+msgid "Header Layout"
+msgstr ""
+
+#: inc/daily-news-customizer.php:162
+msgid "Choose a Header style."
+msgstr ""
+
+#: inc/daily-news-customizer.php:167
+msgid "Header Layout One"
+msgstr ""
+
+#: inc/daily-news-customizer.php:168
+msgid "Header Layout Two - with Ad"
+msgstr ""
+
+#: inc/daily-news-customizer.php:174
+msgid "Show Navbar Search"
+msgstr ""
+
+#: inc/daily-news-customizer.php:175
+msgid "Show / Hide search in the menu bar."
+msgstr ""
+
+#: inc/daily-news-customizer.php:183
+msgid "Upload Logo"
+msgstr ""
+
+#: inc/daily-news-customizer.php:184
+msgid "Upload your logo image here"
+msgstr ""
+
+#: inc/daily-news-customizer.php:192
+msgid "Site tagline"
+msgstr ""
+
+#: inc/daily-news-customizer.php:193
+msgid "Show / hide the site tagline below logo."
+msgstr ""
+
+#: inc/daily-news-customizer.php:201
+msgid "Slider / Tiker bar"
+msgstr ""
+
+#: inc/daily-news-customizer.php:202
+msgid ""
+"Show / hide the latest article bar. Disabling this will hide the bar below "
+"the logo are also social icons will be hidden there."
+msgstr ""
+
+#: inc/daily-news-customizer.php:210
+msgid "Slider / Tiker Title text"
+msgstr ""
+
+#: inc/daily-news-customizer.php:211
+msgid "Title of the latest article bar."
+msgstr ""
+
+#: inc/daily-news-customizer.php:213 partials/tiker-bar.php:4
+msgid "latest"
+msgstr ""
+
+#: inc/daily-news-customizer.php:219
+msgid "Slider / Tiker post count"
+msgstr ""
+
+#: inc/daily-news-customizer.php:220
+msgid "Number of post in the latest article bar."
+msgstr ""
+
+#: inc/daily-news-customizer.php:228
+msgid "Slide Style"
+msgstr ""
+
+#: inc/daily-news-customizer.php:229
+msgid "Choose a slide animation style in latest article bar."
+msgstr ""
+
+#: inc/daily-news-customizer.php:238
+msgid "No CSS Style"
+msgstr ""
+
+#: inc/daily-news-customizer.php:244
+msgid "Post type in Slider"
+msgstr ""
+
+#: inc/daily-news-customizer.php:245
+msgid ""
+"Choose type of post in latest article bar. By default the latest post to be "
+"shown. Or you can choose an specific category."
+msgstr ""
+
+#: inc/daily-news-customizer.php:250
+msgid "Latest Posts"
+msgstr ""
+
+#: inc/daily-news-customizer.php:251 inc/daily-news-customizer.php:420
+msgid "Post From a Category"
+msgstr ""
+
+#: inc/daily-news-customizer.php:257
+msgid "Choose a category"
+msgstr ""
+
+#: inc/daily-news-customizer.php:258
+msgid "Choose a category. The posts in that category will be shown."
+msgstr ""
+
+#: inc/daily-news-customizer.php:259
+msgid "This is a tooltip"
+msgstr ""
+
+#: inc/daily-news-customizer.php:275
+msgid "Social Icons"
+msgstr ""
+
+#: inc/daily-news-customizer.php:276
+msgid ""
+"Show / hide the Social icons ath the header. Use below fields to add links "
+"for the icons. Keep blank which icon you do not want to show. Only show few "
+"icons so that the layout do not break in smaller device."
+msgstr ""
+
+#: inc/daily-news-customizer.php:284
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/daily-news-customizer.php:290
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/daily-news-customizer.php:296
+msgid "Google Plus URL"
+msgstr ""
+
+#: inc/daily-news-customizer.php:302
+msgid "Linkedin URL"
+msgstr ""
+
+#: inc/daily-news-customizer.php:308
+msgid "Skype URL"
+msgstr ""
+
+#: inc/daily-news-customizer.php:314
+msgid "Pinterest URL"
+msgstr ""
+
+#: inc/daily-news-customizer.php:320
+msgid "Youtube URL"
+msgstr ""
+
+#: inc/daily-news-customizer.php:326
+msgid "Vimeo URL"
+msgstr ""
+
+#: inc/daily-news-customizer.php:332
+msgid "Dribbble URL"
+msgstr ""
+
+#: inc/daily-news-customizer.php:338
+msgid "Flickr URL"
+msgstr ""
+
+#: inc/daily-news-customizer.php:344
+msgid "Tumblr URL"
+msgstr ""
+
+#: inc/daily-news-customizer.php:350
+msgid "Github URL"
+msgstr ""
+
+#: inc/daily-news-customizer.php:356
+msgid "Instagram URL"
+msgstr ""
+
+#: inc/daily-news-customizer.php:362
+msgid "Stack Overflow URL"
+msgstr ""
+
+#: inc/daily-news-customizer.php:368
+msgid "Stack Exchange URL"
+msgstr ""
+
+#: inc/daily-news-customizer.php:374
+msgid "Xing URL"
+msgstr ""
+
+#: inc/daily-news-customizer.php:381
+msgid "Featured Section"
+msgstr ""
+
+#: inc/daily-news-customizer.php:382
+msgid ""
+"Show / hide the Featured section at the top of content area in homrpage."
+msgstr ""
+
+#: inc/daily-news-customizer.php:390
+msgid "Featured Section Layout"
+msgstr ""
+
+#: inc/daily-news-customizer.php:391
+msgid "Choose a Layout Style."
+msgstr ""
+
+#: inc/daily-news-customizer.php:396 inc/daily-news-customizer.php:498
+msgid "Layout One"
+msgstr ""
+
+#: inc/daily-news-customizer.php:397 inc/daily-news-customizer.php:499
+msgid "Layout Two"
+msgstr ""
+
+#: inc/daily-news-customizer.php:398 inc/daily-news-customizer.php:500
+msgid "Layout Three"
+msgstr ""
+
+#: inc/daily-news-customizer.php:404
+msgid "Featured Post Count"
+msgstr ""
+
+#: inc/daily-news-customizer.php:405
+msgid "Number of featured post to be show in featured area."
+msgstr ""
+
+#: inc/daily-news-customizer.php:413
+msgid "Featured Section posts"
+msgstr ""
+
+#: inc/daily-news-customizer.php:414
+msgid ""
+"Which posts to show in featured area. You have 2 option, either you show "
+"featured post ( you choose when you create a post ) or posts from a category."
+msgstr ""
+
+#: inc/daily-news-customizer.php:419
+msgid "Featured Posts"
+msgstr ""
+
+#: inc/daily-news-customizer.php:426
+msgid "Featured Category"
+msgstr ""
+
+#: inc/daily-news-customizer.php:427
+msgid ""
+"Choose a category. Post from chosen category will be displayed in featured "
+"area."
+msgstr ""
+
+#: inc/daily-news-customizer.php:443
+msgid "Hide The Category Name"
+msgstr ""
+
+#: inc/daily-news-customizer.php:444
+msgid "Hide the name of featurd category in the featured posts."
+msgstr ""
+
+#: inc/daily-news-customizer.php:460
+msgid "Category Area"
+msgstr ""
+
+#: inc/daily-news-customizer.php:461
+msgid "Category section settings. Add or remove as many section as you want."
+msgstr ""
+
+#: inc/daily-news-customizer.php:481
+msgid "Category Section Title"
+msgstr ""
+
+#: inc/daily-news-customizer.php:482
+msgid "This will be the Title of the section."
+msgstr ""
+
+#: inc/daily-news-customizer.php:487
+msgid "Post Category"
+msgstr ""
+
+#: inc/daily-news-customizer.php:488
+msgid ""
+"Choose a category. The posts in that category will be shown in this section."
+msgstr ""
+
+#: inc/daily-news-customizer.php:494
+msgid "Section layout"
+msgstr ""
+
+#: inc/daily-news-customizer.php:495
+msgid "Choose a layout for this section."
+msgstr ""
+
+#: inc/daily-news-customizer.php:497
+msgid "Choose a layout"
+msgstr ""
+
+#: inc/daily-news-customizer.php:501
+msgid "Layout Four"
+msgstr ""
+
+#: inc/daily-news-customizer.php:506
+msgid "Number of Post"
+msgstr ""
+
+#: inc/daily-news-customizer.php:507
+msgid "Number of post to be shown in this section."
+msgstr ""
+
+#: inc/daily-news-customizer.php:516
+msgid "Sidebar On Home Page"
+msgstr ""
+
+#: inc/daily-news-customizer.php:517
+msgid "Show / Hide the sidebar on the home page template."
+msgstr ""
+
+#: inc/daily-news-customizer.php:527
+msgid "Share Links"
+msgstr ""
+
+#: inc/daily-news-customizer.php:528
+msgid "Show / hide the share section in single post view."
+msgstr ""
+
+#: inc/daily-news-customizer.php:536
+msgid "Author Info section"
+msgstr ""
+
+#: inc/daily-news-customizer.php:537
+msgid "Show / hide the Author info section in single post view."
+msgstr ""
+
+#: inc/daily-news-customizer.php:545
+msgid "Previous Next Post section"
+msgstr ""
+
+#: inc/daily-news-customizer.php:546
+msgid "Show / hide the Previous Next Post section in single post view."
+msgstr ""
+
+#: inc/daily-news-customizer.php:556
+msgid "Footer Widget Area"
+msgstr ""
+
+#: inc/daily-news-customizer.php:557
+msgid ""
+"Show / hide the widgetized area in the footer. Add or change the widgets "
+"from widget settings."
+msgstr ""
+
+#: inc/daily-news-customizer.php:566
+msgid "Custom Copyright text"
+msgstr ""
+
+#: inc/daily-news-customizer.php:567
+msgid "Enable / Disabme custom copyright text in the footer."
+msgstr ""
+
+#: inc/daily-news-customizer.php:576
+msgid "Enter Custom copyright text"
+msgstr ""
+
+#: inc/daily-news-customizer.php:577
+msgid "Add custom copyright text here."
+msgstr ""
+
+#: inc/daily-news-customizer.php:605
+msgid "Feed link"
+msgstr ""
+
+#: inc/daily-news-customizer.php:606
+msgid ""
+"Show / hide the RSS fees link. Disabling this will hide the RSS feed link at "
+"the footer."
+msgstr ""
+
+#: inc/daily-news-customizer.php:617 inc/daily-news-customizer.php:686
+msgid "Header Ad Type"
+msgstr ""
+
+#: inc/daily-news-customizer.php:618 inc/daily-news-customizer.php:687
+msgid "Choose whether you will show image ad or Google Adsence code."
+msgstr ""
+
+#: inc/daily-news-customizer.php:623 inc/daily-news-customizer.php:692
+msgid "Image Banner"
+msgstr ""
+
+#: inc/daily-news-customizer.php:624 inc/daily-news-customizer.php:662
+#: inc/daily-news-customizer.php:693 inc/daily-news-customizer.php:731
+msgid "Google Adsense Code"
+msgstr ""
+
+#: inc/daily-news-customizer.php:630 inc/daily-news-customizer.php:699
+msgid "Image URL"
+msgstr ""
+
+#: inc/daily-news-customizer.php:631 inc/daily-news-customizer.php:700
+msgid "Image URL for header ad."
+msgstr ""
+
+#: inc/daily-news-customizer.php:646 inc/daily-news-customizer.php:715
+msgid "Link URL"
+msgstr ""
+
+#: inc/daily-news-customizer.php:647 inc/daily-news-customizer.php:716
+msgid "Link URL for header ad."
+msgstr ""
+
+#: inc/daily-news-customizer.php:663 inc/daily-news-customizer.php:732
+msgid "Google adsense code for header ad."
+msgstr ""
+
+#: inc/daily-news-customizer.php:755
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/daily-news-customizer.php:756
+msgid ""
+"Enter your custom CSS code. It will be included in the head section of the "
+"site."
+msgstr ""
+
+#: inc/daily-news-customizer.php:772
+msgid "Theme Color"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:48
+msgid "Background Color"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:49
+msgid "Background Image"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:50
+msgid "No Repeat"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:51
+msgid "Repeat All"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:52
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:53
+msgid "Repeat Vertically"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:54
+msgid "Inherit"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:55
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:56
+msgid "Cover"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:57
+msgid "Contain"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:58
+msgid "Background Size"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:60
+msgid "Scroll"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:61
+msgid "Background Attachment"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:62
+msgid "Left Top"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:63
+msgid "Left Center"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:64
+msgid "Left Bottom"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:65
+msgid "Right Top"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:66
+msgid "Right Center"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:67
+msgid "Right Bottom"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:68
+msgid "Center Top"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:69
+msgid "Center Center"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:70
+msgid "Center Bottom"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:71
+msgid "Background Position"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:72
+msgid "Background Opacity"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:73
+msgid "ON"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:74
+msgid "OFF"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:75
+msgid "All"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:76
+msgid "Cyrillic"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:77
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:78
+msgid "Devanagari"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:79
+msgid "Greek"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:80
+msgid "Greek Extended"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:81
+msgid "Khmer"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:82
+msgid "Latin"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:83
+msgid "Latin Extended"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:84
+msgid "Vietnamese"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:85
+msgid "Hebrew"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:86
+msgid "Arabic"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:87
+msgid "Bengali"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:88
+msgid "Gujarati"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:89
+msgid "Tamil"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:90
+msgid "Telugu"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:91
+msgid "Thai"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:92
+msgctxt "font style"
+msgid "Serif"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:93
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:94
+msgctxt "font style"
+msgid "Monospace"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:95
+msgid "Font Family"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:96
+msgid "Font Size"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:97
+msgid "Font Weight"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:98
+msgid "Line Height"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:99
+msgid "Letter Spacing"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:100
+msgid "Top"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:101
+msgid "Bottom"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:104
+msgid "Color"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:105
+msgid "Add Image"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:106
+msgid "Change Image"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:107
+msgid "Remove"
+msgstr ""
+
+#: inc/kirki/includes/class-kirki-toolkit.php:108
+msgid "No Image Selected"
+msgstr ""
+
+#: inc/kirki/includes/controls/class-kirki-controls-repeater-control.php:28
+msgid "Add new row"
+msgstr ""
+
+#: inc/meta-box-setup.php:36
+msgid "Featured Post"
+msgstr ""
+
+#: inc/meta-box-setup.php:44
+msgid "Feature this post"
+msgstr ""
+
+#: inc/meta-box-setup.php:46
+msgid "Check this to feature this post."
+msgstr ""
+
+#: inc/meta-box-setup.php:56
+msgid "Link Format Post Options"
+msgstr ""
+
+#: inc/meta-box-setup.php:64
+msgid "URL"
+msgstr ""
+
+#: inc/meta-box-setup.php:66
+msgid "Paste the URL here"
+msgstr ""
+
+#: inc/meta-box-setup.php:76
+msgid "Audio Format Post Options"
+msgstr ""
+
+#: inc/meta-box-setup.php:84
+msgid "Audio Host Type"
+msgstr ""
+
+#: inc/meta-box-setup.php:88 inc/meta-box-setup.php:129
+msgid "Embed Code"
+msgstr ""
+
+#: inc/meta-box-setup.php:89 inc/meta-box-setup.php:130
+msgid "Self Hosted"
+msgstr ""
+
+#: inc/meta-box-setup.php:94
+msgid "Audio Embed Code"
+msgstr ""
+
+#: inc/meta-box-setup.php:96 inc/meta-box-setup.php:137
+msgid ""
+"Paste the embed code here. If you want to use self hosted, you may leave it "
+"blank and choose self hosted option above."
+msgstr ""
+
+#: inc/meta-box-setup.php:102
+msgid "Upload Audio File"
+msgstr ""
+
+#: inc/meta-box-setup.php:106
+msgid ""
+"Upload or select your self hosted audio. If you want to use embed code. you "
+"may leave it blank and choose embed code option above."
+msgstr ""
+
+#: inc/meta-box-setup.php:117
+msgid "Video Format Post Options"
+msgstr ""
+
+#: inc/meta-box-setup.php:125
+msgid "Video Host Type"
+msgstr ""
+
+#: inc/meta-box-setup.php:135
+msgid "Video Embed Code"
+msgstr ""
+
+#: inc/meta-box-setup.php:142
+msgid "Upload Video File"
+msgstr ""
+
+#: inc/meta-box-setup.php:146
+msgid ""
+"Upload or select your self hosted Video. If you want to use embed code. you "
+"may leave it blank and choose embed code option above."
+msgstr ""
+
+#: inc/meta-box-setup.php:156
+msgid "Quote Format Post Options"
+msgstr ""
+
+#: inc/meta-box-setup.php:164
+msgid "Quote Content"
+msgstr ""
+
+#: inc/meta-box-setup.php:167
+msgid "Please type the text of your quote here."
+msgstr ""
+
+#: inc/meta-box-setup.php:170
+msgid "Quote Source Name"
+msgstr ""
+
+#: inc/meta-box-setup.php:173
+msgid "Type the author name / name of the quote source."
+msgstr ""
+
+#: inc/meta-box-setup.php:176
+msgid "Quote Source Link (URL)"
+msgstr ""
+
+#: inc/meta-box-setup.php:179
+msgid ""
+"Paste the link of the quote source. The author name will be linked to this "
+"link."
+msgstr ""
+
+#: inc/meta-box-setup.php:187
+msgid "Status Format Post Options"
+msgstr ""
+
+#: inc/meta-box-setup.php:195
+msgid "Status Type"
+msgstr ""
+
+#: inc/meta-box-setup.php:199
+msgid "Twitter Status"
+msgstr ""
+
+#: inc/meta-box-setup.php:200
+msgid "Facebook Status"
+msgstr ""
+
+#: inc/meta-box-setup.php:203
+msgid "Choose the status type you wnt to post"
+msgstr ""
+
+#: inc/meta-box-setup.php:206
+msgid "Status link (URL)"
+msgstr ""
+
+#: inc/meta-box-setup.php:208
+msgid "Paste the Link of the status"
+msgstr ""
+
+#: inc/meta-box-setup.php:216
+msgid "Gallery Format Post Options"
+msgstr ""
+
+#: inc/meta-box-setup.php:224
+msgid "Gallery Type"
+msgstr ""
+
+#: inc/meta-box-setup.php:228
+msgid "Slider Gallery"
+msgstr ""
+
+#: inc/meta-box-setup.php:229
+msgid "Tiled Gallery"
+msgstr ""
+
+#: inc/meta-box-setup.php:232
+msgid "Choose the Gallery type you wnt to display"
+msgstr ""
+
+#: inc/meta-box-setup.php:235
+msgid "Upload or Choose Images"
+msgstr ""
+
+#: inc/meta-box-setup.php:237
+msgid "Choose or upload images for this gallery"
+msgstr ""
+
+#: inc/widgets.php:15
+msgid "Daily News - Recent Post"
+msgstr "ডেলি নিউজ - রিসেন্ট পোস্ট"
+
+#: inc/widgets.php:16
+msgid "This widget shows the recent posts with thumbnail"
+msgstr ""
+
+#: inc/widgets.php:79
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets.php:84 inc/widgets.php:181
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets.php:88
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/widgets.php:93
+msgid "Display post date"
+msgstr ""
+
+#: inc/widgets.php:124
+msgid "Daily News - Mailchip Widget"
+msgstr ""
+
+#: inc/widgets.php:125
+msgid "This widget shows the Mailchimp Subscription form"
+msgstr ""
+
+#: inc/widgets.php:164
+msgid ""
+"Please add your mailchimp form URL in mailchimp widget from widget dashboard."
+msgstr ""
+
+#: inc/widgets.php:176
+msgid "Newsletter"
+msgstr ""
+
+#: inc/widgets.php:185
+msgid "Mailchimp Form URL"
+msgstr ""
+
+#: inc/widgets.php:189
+msgid "Optional Text to show before form"
+msgstr ""
+
+#: partials/cover-archive.php:8
+#, php-format
+msgid "Date: %s"
+msgstr ""
+
+#: partials/cover-archive.php:10
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: partials/cover-archive.php:10
+msgctxt "Date for monthly archive"
+msgid "F Y"
+msgstr ""
+
+#: partials/cover-archive.php:12
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: partials/cover-archive.php:12
+msgctxt "Date for yearly archive"
+msgid "Y"
+msgstr ""
+
+#: partials/cover-archive.php:14
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: partials/cover-archive.php:16
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: partials/cover-archive.php:18
+msgid "Archive"
+msgstr ""
+
+#: partials/cover-archive.php:26 partials/cover-search.php:12
+#, php-format
+msgid "Total %d Posts"
+msgstr ""
+
+#: partials/cover-author.php:18
+#, php-format
+msgid "%d Posts"
+msgstr ""
+
+#: partials/cover-search.php:6
+msgid "Search Results for"
+msgstr ""
+
+#: partials/pagination.php:5
+msgid "Newer"
+msgstr ""
+
+#: partials/pagination.php:6
+msgid "Older"
+msgstr ""
+
+#: partials/post-style-large.php:16
+#: partials/post-templates/content-audio.php:35
+#: partials/post-templates/content-gallery.php:66
+#: partials/post-templates/content-image.php:31
+#: partials/post-templates/content-link.php:28
+#: partials/post-templates/content-quote.php:34
+#: partials/post-templates/content-status.php:33
+#: partials/post-templates/content-video.php:30
+#: partials/post-templates/content.php:24 partials/template-featured.php:54
+#: partials/template-featured.php:86 partials/template-featured.php:118
+msgid "Sticky"
+msgstr ""
+
+#: partials/post-templates/content-zero.php:3
+msgid ""
+"Sorry nothing found for your search term. Please try to search again with "
+"another term / key word."
+msgstr ""
+
+#: partials/prev-next.php:16
+msgid "Previous Post"
+msgstr ""
+
+#: partials/prev-next.php:33
+msgid "Next Post"
+msgstr ""
+
+#: partials/social-share.php:3
+msgid "Share this article:"
+msgstr ""
+
+#: searchform.php:13
+msgid "Enter keyword..."
+msgstr ""
+
+#: single.php:23
+msgid "Tags: "
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Daily News"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://gbjsolution.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A responsive minimal blogging theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Biswajit Saha"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themeforest.net/user/GBJsolution"
+msgstr ""

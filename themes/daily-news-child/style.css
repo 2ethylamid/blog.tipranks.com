@@ -342,3 +342,7 @@ article span.comment{display: none !important;}
 .client-components-notification-inbox-notification-inbox__notificationArea footer .client-components-notification-inbox-notification-inbox__notFollowing a {
     color: #007dd4;
 }
+
+em a {
+    font-style: italic !important;
+}
